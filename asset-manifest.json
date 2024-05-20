@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Neha-portfolio/static/css/main.d5e0cb55.chunk.css",
-    "main.js": "/Neha-portfolio/static/js/main.1759a6cc.chunk.js",
-    "main.js.map": "/Neha-portfolio/static/js/main.1759a6cc.chunk.js.map",
-    "runtime-main.js": "/Neha-portfolio/static/js/runtime-main.c24f2646.js",
-    "runtime-main.js.map": "/Neha-portfolio/static/js/runtime-main.c24f2646.js.map",
-    "static/js/2.033603bf.chunk.js": "/Neha-portfolio/static/js/2.033603bf.chunk.js",
-    "static/js/2.033603bf.chunk.js.map": "/Neha-portfolio/static/js/2.033603bf.chunk.js.map",
+    "main.js": "/Neha-portfolio/static/js/main.5f62c9b0.chunk.js",
+    "main.js.map": "/Neha-portfolio/static/js/main.5f62c9b0.chunk.js.map",
+    "runtime-main.js": "/Neha-portfolio/static/js/runtime-main.3c16f949.js",
+    "runtime-main.js.map": "/Neha-portfolio/static/js/runtime-main.3c16f949.js.map",
+    "static/js/2.06d56d69.chunk.js": "/Neha-portfolio/static/js/2.06d56d69.chunk.js",
+    "static/js/2.06d56d69.chunk.js.map": "/Neha-portfolio/static/js/2.06d56d69.chunk.js.map",
     "static/css/3.c508d8b9.chunk.css": "/Neha-portfolio/static/css/3.c508d8b9.chunk.css",
-    "static/js/3.119ac731.chunk.js": "/Neha-portfolio/static/js/3.119ac731.chunk.js",
-    "static/js/3.119ac731.chunk.js.map": "/Neha-portfolio/static/js/3.119ac731.chunk.js.map",
+    "static/js/3.026608d3.chunk.js": "/Neha-portfolio/static/js/3.026608d3.chunk.js",
+    "static/js/3.026608d3.chunk.js.map": "/Neha-portfolio/static/js/3.026608d3.chunk.js.map",
     "static/css/4.f0b7a320.chunk.css": "/Neha-portfolio/static/css/4.f0b7a320.chunk.css",
-    "static/js/4.a9f58e18.chunk.js": "/Neha-portfolio/static/js/4.a9f58e18.chunk.js",
-    "static/js/4.a9f58e18.chunk.js.map": "/Neha-portfolio/static/js/4.a9f58e18.chunk.js.map",
+    "static/js/4.fafa133a.chunk.js": "/Neha-portfolio/static/js/4.fafa133a.chunk.js",
+    "static/js/4.fafa133a.chunk.js.map": "/Neha-portfolio/static/js/4.fafa133a.chunk.js.map",
     "index.html": "/Neha-portfolio/index.html",
-    "precache-manifest.efadbcb03e60ec1c4924fdbd6a933c01.js": "/Neha-portfolio/precache-manifest.efadbcb03e60ec1c4924fdbd6a933c01.js",
+    "precache-manifest.344811d663d87b3b46f572eaeae2bd1d.js": "/Neha-portfolio/precache-manifest.344811d663d87b3b46f572eaeae2bd1d.js",
     "service-worker.js": "/Neha-portfolio/service-worker.js",
     "static/css/3.c508d8b9.chunk.css.map": "/Neha-portfolio/static/css/3.c508d8b9.chunk.css.map",
     "static/css/4.f0b7a320.chunk.css.map": "/Neha-portfolio/static/css/4.f0b7a320.chunk.css.map",
@@ -47,9 +47,9 @@
     "static/media/zero-to-mastery.png": "/Neha-portfolio/static/media/zero-to-mastery.d0a70af7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c24f2646.js",
-    "static/js/2.033603bf.chunk.js",
+    "static/js/runtime-main.3c16f949.js",
+    "static/js/2.06d56d69.chunk.js",
     "static/css/main.d5e0cb55.chunk.css",
-    "static/js/main.1759a6cc.chunk.js"
+    "static/js/main.5f62c9b0.chunk.js"
   ]
 }
