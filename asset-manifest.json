@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Neha-portfolio/static/css/main.d5e0cb55.chunk.css",
-    "main.js": "/Neha-portfolio/static/js/main.9dd92025.chunk.js",
-    "main.js.map": "/Neha-portfolio/static/js/main.9dd92025.chunk.js.map",
+    "main.js": "/Neha-portfolio/static/js/main.3f3ba6f2.chunk.js",
+    "main.js.map": "/Neha-portfolio/static/js/main.3f3ba6f2.chunk.js.map",
     "runtime-main.js": "/Neha-portfolio/static/js/runtime-main.3c16f949.js",
     "runtime-main.js.map": "/Neha-portfolio/static/js/runtime-main.3c16f949.js.map",
     "static/js/2.06d56d69.chunk.js": "/Neha-portfolio/static/js/2.06d56d69.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.fafa133a.chunk.js": "/Neha-portfolio/static/js/4.fafa133a.chunk.js",
     "static/js/4.fafa133a.chunk.js.map": "/Neha-portfolio/static/js/4.fafa133a.chunk.js.map",
     "index.html": "/Neha-portfolio/index.html",
-    "precache-manifest.95eb8b0a0a186b4e107b0307260caa0e.js": "/Neha-portfolio/precache-manifest.95eb8b0a0a186b4e107b0307260caa0e.js",
+    "precache-manifest.583ee60b431bf2c3c1e80bada58a3026.js": "/Neha-portfolio/precache-manifest.583ee60b431bf2c3c1e80bada58a3026.js",
     "service-worker.js": "/Neha-portfolio/service-worker.js",
     "static/css/3.c508d8b9.chunk.css.map": "/Neha-portfolio/static/css/3.c508d8b9.chunk.css.map",
     "static/css/4.f0b7a320.chunk.css.map": "/Neha-portfolio/static/css/4.f0b7a320.chunk.css.map",
@@ -50,6 +50,6 @@
     "static/js/runtime-main.3c16f949.js",
     "static/js/2.06d56d69.chunk.js",
     "static/css/main.d5e0cb55.chunk.css",
-    "static/js/main.9dd92025.chunk.js"
+    "static/js/main.3f3ba6f2.chunk.js"
   ]
 }
