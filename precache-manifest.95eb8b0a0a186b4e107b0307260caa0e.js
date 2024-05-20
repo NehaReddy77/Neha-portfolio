@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab256f41d7381034f762da60cd76067a",
+    "revision": "d9542e69432a60169493fdc3955d3b07",
     "url": "/Neha-portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Neha-portfolio/static/css/4.f0b7a320.chunk.css"
   },
   {
-    "revision": "ce1797ea693c384a5a02",
+    "revision": "7bd1f0e6101fa6177c0d",
     "url": "/Neha-portfolio/static/css/main.d5e0cb55.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Neha-portfolio/static/js/4.fafa133a.chunk.js"
   },
   {
-    "revision": "ce1797ea693c384a5a02",
-    "url": "/Neha-portfolio/static/js/main.5f62c9b0.chunk.js"
+    "revision": "7bd1f0e6101fa6177c0d",
+    "url": "/Neha-portfolio/static/js/main.9dd92025.chunk.js"
   },
   {
     "revision": "60b96e482b9c71752a9b",
